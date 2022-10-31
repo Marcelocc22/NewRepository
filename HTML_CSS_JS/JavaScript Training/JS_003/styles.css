@@ -1,0 +1,17 @@
+
+
+body{
+    background-color: black;
+    color: ivory;
+    font-size: 25px;
+}
+
+p{
+    font-size: large;
+}
+
+h1{
+    font-size: larger;
+    font-weight: bold;
+    font-style: italic;
+}
