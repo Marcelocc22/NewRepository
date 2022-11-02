@@ -15,3 +15,13 @@ h1{
     font-weight: bold;
     font-style: italic;
 }
+
+div#area{
+    font: 30px Arial;
+    background-color: cadetblue;
+    color: ivory;
+    width: 200px;
+    height: 200px;
+    line-height: 200px;
+    text-align: center;
+}
